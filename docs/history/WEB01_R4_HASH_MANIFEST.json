@@ -1,0 +1,589 @@
+{
+  "version": "WEB-01 / V4-R4",
+  "source": "Isolated V4-R3 published ZIP snapshot, no public repository changes",
+  "file_count_excluding_manifest": 114,
+  "asset_binary_match_R3": [
+    "flow-mobile.png",
+    "flow.png",
+    "logo-dark-transparent.png",
+    "logo-light-transparent.png",
+    "logo.png",
+    "mobile-dark.png",
+    "mobile-light.png",
+    "quotation.png",
+    "today-dark.png",
+    "today-light.png"
+  ],
+  "files": [
+    {
+      "path": ".nojekyll",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "404.html",
+      "size_bytes": 11581,
+      "sha256": "20f1b5887a57aaa8b14092a658790af4158822b272afc8b5295a0fb7d1b17011"
+    },
+    {
+      "path": "LAUNCH_CHECKLIST.md",
+      "size_bytes": 719,
+      "sha256": "7a9cd3133aba87cd54dbd0f63a74a9e627564d7758fb00739dbe51bfcba28fc0"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 2541,
+      "sha256": "8a5d80b12eaab951e42a08a6415d1b581abec156fe118adf9a84e7fb8fe941fb"
+    },
+    {
+      "path": "README_R4.md",
+      "size_bytes": 2142,
+      "sha256": "fa04009a7d272c5c1684a23e3a126ecedc77709e7950058439133ff45e99e1dd"
+    },
+    {
+      "path": "SEO_BUILD_MANIFEST.json",
+      "size_bytes": 394,
+      "sha256": "0a52b6fdc50d8ef885f7869e824892c3f028d375cd1edd2737bc64d4e4377f22"
+    },
+    {
+      "path": "SEO_CURATED_ROLE_IDS.json",
+      "size_bytes": 690,
+      "sha256": "d5e76652fdd2460559624807193ccff223decbfe5deae2df9bf85f64bde0e2c8"
+    },
+    {
+      "path": "SEO_EVENTS.json",
+      "size_bytes": 1905,
+      "sha256": "af504a463b90f71003982ef89f5abaa7f2394a1e7bc0450e374c3b7135a8fd43"
+    },
+    {
+      "path": "SEO_MASTER_EXECUTION_PLAN.md",
+      "size_bytes": 13957,
+      "sha256": "969ec1e1e5134e9e1d1b03e9b9fb2dc1332cceb53687edab026555f638dba1f3"
+    },
+    {
+      "path": "SEO_QUERY_MAP.csv",
+      "size_bytes": 16458,
+      "sha256": "13432686d6f6f500487c7846f36a5012e020ad03fff5b5b3d9b14ab8c87152a8"
+    },
+    {
+      "path": "WEB01_QA_EVIDENCE.md",
+      "size_bytes": 3042,
+      "sha256": "0dc26efe55bd798e43b441bf6fef72ac11fbf072dbb83bdb2951c5a253f19df2"
+    },
+    {
+      "path": "WEB01_R3_BROWSER_QA.json",
+      "size_bytes": 1457,
+      "sha256": "7da80ab3ce8d6d85735dec2ab3d3873ed2cb5087de89eaef66cc32f6ff8afcd0"
+    },
+    {
+      "path": "WEB01_R3_QA_SUMMARY.md",
+      "size_bytes": 2740,
+      "sha256": "c116ebeb6f10125397b5156e850db8373003256f9a2fb8ad79cd9731e9a45336"
+    },
+    {
+      "path": "WEB01_R3_README.md",
+      "size_bytes": 3376,
+      "sha256": "a8d7afc1ad0d696abbe1c990d06e44188253152d18a1bc3381aa96bddcc83544"
+    },
+    {
+      "path": "WEB01_R3_RELEASE_GATES.md",
+      "size_bytes": 1452,
+      "sha256": "44d1853dabbeba2973b9f51f39ec93d78072d5e9a4d2dd8ff74ee2ecc50b151b"
+    },
+    {
+      "path": "WEB01_R3_SOURCE_MANIFEST.json",
+      "size_bytes": 6695,
+      "sha256": "ca3391f615aea88d0832a688bd8688444c1ff1b05704abbc2ec5f3c35e3d5575"
+    },
+    {
+      "path": "WEB01_R4_RELEASE_GATES.md",
+      "size_bytes": 2086,
+      "sha256": "97c25eac34150ae1dfa163c1a35fd5a715da96fe6bc2ee1380632c777891c6f8"
+    },
+    {
+      "path": "WEB01_RECOVERY_NOTES.md",
+      "size_bytes": 1965,
+      "sha256": "60884ec15420a0d1b17f3eaf1cf73a96671e734ed17b7c4c34dd8514f73e0f05"
+    },
+    {
+      "path": "WEB01_RELEASE_GATES.md",
+      "size_bytes": 1545,
+      "sha256": "1426908c807ac29b82edc516697d4eb6c7f9603f6349e59e4e8466f768254085"
+    },
+    {
+      "path": "WEB01_SHA256_MANIFEST.json",
+      "size_bytes": 7747,
+      "sha256": "2f3b7e9d0149ba782626cebb735ff4abb58af194c0b625f27f51ae6c238c5ed3"
+    },
+    {
+      "path": "about.html",
+      "size_bytes": 13671,
+      "sha256": "fd9e663c6ee9b7bd938f3bdd6b5b88f08e6153a8d58267b7a34a44a02d2488f7"
+    },
+    {
+      "path": "accessibility.html",
+      "size_bytes": 12675,
+      "sha256": "a83439818dbda5e809ccd2ac5d00155c020590e0645f336b2684d6de64b9c177"
+    },
+    {
+      "path": "adoption.html",
+      "size_bytes": 15944,
+      "sha256": "2ce2ff9ea3a63668cc15d15e70b8a7f5ee496fcd7aac459bb50a0081ef2cbabc"
+    },
+    {
+      "path": "assets/flow-mobile.png",
+      "size_bytes": 73621,
+      "sha256": "cb2b650ac1913b6d715ae5855ae80c6ce8d4480f0ebd1c8cdd3dd2c87eb926c9"
+    },
+    {
+      "path": "assets/flow.png",
+      "size_bytes": 851476,
+      "sha256": "10cb865249f8819fe36cc3955b5a582af8975c6296ce48e67547dded7a015913"
+    },
+    {
+      "path": "assets/logo-dark-transparent.png",
+      "size_bytes": 11436,
+      "sha256": "4aff676061a57dea5403fe76f807f29e1b79bef7306cb4a77b12d12646b85cd7"
+    },
+    {
+      "path": "assets/logo-light-transparent.png",
+      "size_bytes": 142855,
+      "sha256": "7b34f1fab753868e0ba12da05f76ba4da580ce4bd32625b866c5280686274e3f"
+    },
+    {
+      "path": "assets/logo.png",
+      "size_bytes": 9636,
+      "sha256": "93a6173ed2123bff76e6e8232a6cc3bb010dbaf6401ce01e2e8996e673d1681a"
+    },
+    {
+      "path": "assets/mobile-dark.png",
+      "size_bytes": 75936,
+      "sha256": "c43520f72e2655c230476e7ba60c0b005f959a8f4846648d81e81658c28fbda4"
+    },
+    {
+      "path": "assets/mobile-light.png",
+      "size_bytes": 77398,
+      "sha256": "c8b49f370777d2fe769e27cc0043e73af78ac45c103378a974753cddd76e8bbd"
+    },
+    {
+      "path": "assets/quotation.png",
+      "size_bytes": 572633,
+      "sha256": "ee7ecb23407047dcc9e77da82786123300f5edfd6b226c668077ea5fd2aab649"
+    },
+    {
+      "path": "assets/today-dark.png",
+      "size_bytes": 224542,
+      "sha256": "41d93449fa6bfdbb949cb1a576e7532f6be430ecc3db9692a4f21a114e16c129"
+    },
+    {
+      "path": "assets/today-light.png",
+      "size_bytes": 169149,
+      "sha256": "ddda8d45715841aebb93fef2f46cb06ff1d9fbb247cb5eb682b9424b7be79090"
+    },
+    {
+      "path": "business-types.html",
+      "size_bytes": 31449,
+      "sha256": "6d773342d50681c8e98c950f8bf9b50b992f17d570e86ef8f4d278551c9bce28"
+    },
+    {
+      "path": "capabilities.html",
+      "size_bytes": 46390,
+      "sha256": "481c7bcf6c1cfe20407e7cdce4aaf04bf9d5890f1ebf7ff2a8d86f194194731f"
+    },
+    {
+      "path": "command.html",
+      "size_bytes": 15325,
+      "sha256": "042827c85d51ee535ff0a4147ac2e5a6753330b2a0d3cce0b95e84a51d91dc31"
+    },
+    {
+      "path": "contact.html",
+      "size_bytes": 14981,
+      "sha256": "7d012cf8873dbab805d0c92edf51b33fe8b2e44e4ecb61969818fec2c1b4f030"
+    },
+    {
+      "path": "experience.html",
+      "size_bytes": 17207,
+      "sha256": "f6ea780c57dcae0207759544e81deefe432d1214b10e03039203124357df67aa"
+    },
+    {
+      "path": "faq.html",
+      "size_bytes": 14491,
+      "sha256": "06c3d3d522f0ca58ea983663976b4c24ca1309e0659990a2ba50ab58778f66cb"
+    },
+    {
+      "path": "getting-started.html",
+      "size_bytes": 14241,
+      "sha256": "44d9d9c9ddad675693616b9735597c62da8343feb2a00e9a33ac51cd9e663878"
+    },
+    {
+      "path": "guide.html",
+      "size_bytes": 16918,
+      "sha256": "947f7132934882b321fec81be47840b4461e36a763f8839517c5dd01cc22fb33"
+    },
+    {
+      "path": "index.html",
+      "size_bytes": 28596,
+      "sha256": "316a47c789ec0ecd155349d1cbf4570a5bb20641c87328576db9254ab0946336"
+    },
+    {
+      "path": "industries.html",
+      "size_bytes": 16371,
+      "sha256": "207a6776ef7ad890c183a7bfee9fb32a63d259e0f66eb9b939d8ed86c7bf24e4"
+    },
+    {
+      "path": "industry-01.html",
+      "size_bytes": 15630,
+      "sha256": "29d2a9a5c06a4cb1b22c3933e82401edf6863577c4fe6adf573b4368ad39ddb6"
+    },
+    {
+      "path": "industry-02.html",
+      "size_bytes": 15601,
+      "sha256": "c573437eed5004ac4aef6c6b07da53a2e734ede3f73f0e6b0329c99edf0d066a"
+    },
+    {
+      "path": "industry-03.html",
+      "size_bytes": 15362,
+      "sha256": "63766e69646c34924f8b1eb6f835bb78b13d82a558b91fa921f4c9d6a8bcc05b"
+    },
+    {
+      "path": "industry-04.html",
+      "size_bytes": 15437,
+      "sha256": "24b6708b9240fcad50f4604fcd08b4a32f27f58062e980eb0315b21c733ca95b"
+    },
+    {
+      "path": "industry-05.html",
+      "size_bytes": 15339,
+      "sha256": "4ed1966f9f417fa52400d79a4bacf42784fc93a795ea2907158286b789c3dee6"
+    },
+    {
+      "path": "industry-06.html",
+      "size_bytes": 15552,
+      "sha256": "66027b059b25e0633ce872a4f7d5ffe35ac556e3873bea199a7f09d4799c5dad"
+    },
+    {
+      "path": "industry-07.html",
+      "size_bytes": 15384,
+      "sha256": "5f05d1869d58dc531adbc744e5a8b83ad624e783e04decafb6f79dceb45cfcc2"
+    },
+    {
+      "path": "industry-08.html",
+      "size_bytes": 15670,
+      "sha256": "5089c0498017dfd4f6713fca2516a4bed52e214783e11328792c51bd1789d4cf"
+    },
+    {
+      "path": "industry-09.html",
+      "size_bytes": 15442,
+      "sha256": "f1dcc1f7a39ce3e524e55636ea53d8962c743c9e30a0bf310df71b14d0f4e31e"
+    },
+    {
+      "path": "industry-10.html",
+      "size_bytes": 15231,
+      "sha256": "1b9704565cc118aea354dd560c074c054b79f8aef8d3fba3ad1b947b2199235f"
+    },
+    {
+      "path": "industry-11.html",
+      "size_bytes": 15182,
+      "sha256": "769379b7812a8b60aef245f39668585a5e316a6f87215dfc3aec33d3baabcade"
+    },
+    {
+      "path": "industry-12.html",
+      "size_bytes": 15282,
+      "sha256": "9e08ea6a78142a7ea4df5eeb71444efab0c665bf618a5cba9955c713e56a1fc9"
+    },
+    {
+      "path": "industry-13.html",
+      "size_bytes": 15315,
+      "sha256": "f626bde55b578bf6f62a591d5c8453c3ba092ac4265c5ee8b481709a72cff2ce"
+    },
+    {
+      "path": "industry-14.html",
+      "size_bytes": 15260,
+      "sha256": "c2b3f1bb1b4c3977d24634e33422f8e8face2e30cb6df58800b8f95d9e7b61d4"
+    },
+    {
+      "path": "industry-15.html",
+      "size_bytes": 15385,
+      "sha256": "183653b25a82be2129b8df24f4bdd7598f383bb25dcf56dc4aa9c782e4d1a06e"
+    },
+    {
+      "path": "industry-16.html",
+      "size_bytes": 15382,
+      "sha256": "735384dbc3a7598bf26a19e4f6c4ac17a6b2b07457e9b042723802ed31c52919"
+    },
+    {
+      "path": "journeys.html",
+      "size_bytes": 22039,
+      "sha256": "52c7fd7e9e64772cd8a9eea3ce325b7149bc0f9b765bd9cf316b3f901e8f5d85"
+    },
+    {
+      "path": "migration.html",
+      "size_bytes": 15329,
+      "sha256": "b6367255fce783f6034087b748bcbf24e09679cb7b94fdc837c9181856bcdac5"
+    },
+    {
+      "path": "occupation.html",
+      "size_bytes": 11187,
+      "sha256": "276963388de2e319828810240a646227e3af8afbfe99e8c7a407aedf6a790e9f"
+    },
+    {
+      "path": "occupations-data.js",
+      "size_bytes": 141668,
+      "sha256": "c18e99f0c22b142503a4d8491a76f171f62729b68372ca5cbbfa4c5fb01c7324"
+    },
+    {
+      "path": "occupations-data.json",
+      "size_bytes": 190227,
+      "sha256": "3488a72d6f417c258d44747f0327cce413e06795b425434c0daa2bc007ddf764"
+    },
+    {
+      "path": "occupations-directory.csv",
+      "size_bytes": 72794,
+      "sha256": "9ceea299c2c033f5877f8819e0952e547b033d0a2fa1d1b6449b766684a2a65a"
+    },
+    {
+      "path": "occupations-ui.js",
+      "size_bytes": 10052,
+      "sha256": "9f96f45ad1c293e1eb02d8bdc4282b68799c43330178f57972e7525e54498a26"
+    },
+    {
+      "path": "occupations.html",
+      "size_bytes": 19987,
+      "sha256": "44ff434f62d448f04a79776163407d7ded7bdd8fe44f623c6dc6048a7f0fd45b"
+    },
+    {
+      "path": "platform.html",
+      "size_bytes": 14271,
+      "sha256": "5280e490fc36d07161e16f68911578382c0d71eb31dea4b5a920e3ebe59d906c"
+    },
+    {
+      "path": "pricing.html",
+      "size_bytes": 14846,
+      "sha256": "5c9fb13267a789a00d3d2a0f3659df58e9e2965ff34bb6e1a63b3c1248dbff54"
+    },
+    {
+      "path": "privacy.html",
+      "size_bytes": 12877,
+      "sha256": "d4c5943cce55b90dde37926115ac554be9b8da5071449831542ae54325fb3ace"
+    },
+    {
+      "path": "robots.txt",
+      "size_bytes": 133,
+      "sha256": "e2f6f5d01b0a2071e8600a8085655c17eaf08c4cabe89c455a012adeb80ea065"
+    },
+    {
+      "path": "roles/accountant.html",
+      "size_bytes": 14200,
+      "sha256": "1c6b8c3d2d4cd609472892fccb1410174f759869974c705a5990b012daffcb48"
+    },
+    {
+      "path": "roles/architect.html",
+      "size_bytes": 14201,
+      "sha256": "99ebda2a9e1dede9858b079c4b925ce5c24d227d59e92f541ec22779383c8e3b"
+    },
+    {
+      "path": "roles/bookkeeper.html",
+      "size_bytes": 14133,
+      "sha256": "1b22aff2ed78b94204ca7b44e4e5eb4df8293bd840d68f60a0cad6ae382752b8"
+    },
+    {
+      "path": "roles/business-consultant.html",
+      "size_bytes": 14301,
+      "sha256": "70a1ccf4cf3a32d7b06ad879f153ff20f6479cf32750a3eb0eebfd710fb94188"
+    },
+    {
+      "path": "roles/car-mechanic.html",
+      "size_bytes": 14228,
+      "sha256": "7aa8ed37a0046a054f1803e7946ff8e31e3f02b6c405f512b06a70d0574f5436"
+    },
+    {
+      "path": "roles/chief-executive-officer.html",
+      "size_bytes": 14367,
+      "sha256": "45185ae379d2ac33015a30eef93741a22b7adb21c7fc098c8336579f122127d2"
+    },
+    {
+      "path": "roles/cleaning-company-owner.html",
+      "size_bytes": 14388,
+      "sha256": "3a03ddd9673e3accbca5a250c3ef4a4aba02ad9e8df8f604feabb4a99d308614"
+    },
+    {
+      "path": "roles/commercial-farmer.html",
+      "size_bytes": 14292,
+      "sha256": "aeab5c0630480b302bbae40daeab6a00ab7813f5e631994d6539811e94e86d35"
+    },
+    {
+      "path": "roles/construction-company-owner.html",
+      "size_bytes": 14434,
+      "sha256": "9f6156376876ebae09f02c0b03a2fc0057c3533c18ee366b04385ae59f11afc3"
+    },
+    {
+      "path": "roles/dentist-practice-owner.html",
+      "size_bytes": 14459,
+      "sha256": "ba5df727c253d20fe81fa890ef652dc46ff9db143916ef714641dcd4b4d0ecbb"
+    },
+    {
+      "path": "roles/electrician.html",
+      "size_bytes": 14248,
+      "sha256": "9591edc38ec051135eae5b1c142ba599893b4b599c6ce039fe586b30e7fed0f1"
+    },
+    {
+      "path": "roles/estate-agent.html",
+      "size_bytes": 14361,
+      "sha256": "65e282f656d1b4d0b64945058bf38d5ec289ede4e6e6cc219b7a52668f620a81"
+    },
+    {
+      "path": "roles/garden-services-business-owner.html",
+      "size_bytes": 14554,
+      "sha256": "9d24321e610fcccc43089ab3c5bb04a8e470a6c64460af55a76d9ebde1223ec0"
+    },
+    {
+      "path": "roles/gardener.html",
+      "size_bytes": 14348,
+      "sha256": "81ed511cb38e70a539267f965d7fbcc82da779157113852d1bae22859afc5bd9"
+    },
+    {
+      "path": "roles/hair-salon-owner.html",
+      "size_bytes": 14306,
+      "sha256": "72afee47c34ef9ae7b55fde726f6804d79eb3e6eff5fdfee118d5096c6ce9f38"
+    },
+    {
+      "path": "roles/logistics-company-owner.html",
+      "size_bytes": 14291,
+      "sha256": "91b2b22b53bcc83d070d4aced1ce8ebeec85a0ee4c8c5ac1562d7f80b2a0b593"
+    },
+    {
+      "path": "roles/managed-service-provider-owner.html",
+      "size_bytes": 14582,
+      "sha256": "31ab0eed6c7aec35e12fab1c066bb5154e0771ef9ba0c7b02137af1fe9876eef"
+    },
+    {
+      "path": "roles/manufacturing-business-owner.html",
+      "size_bytes": 14409,
+      "sha256": "c6cb3697b3f2b3ea1f3bcb6f085f5c7149fdfe8791f0080e1764427d725e7bda"
+    },
+    {
+      "path": "roles/marketing-agency-owner.html",
+      "size_bytes": 14333,
+      "sha256": "7f285522b4a8720dce3e675fd695a3c8e10ef64d865026b745ef5018e2f3c274"
+    },
+    {
+      "path": "roles/mining-services-owner.html",
+      "size_bytes": 14609,
+      "sha256": "4d307d28624dbf8159a31beabab82a845692fd5b83e1c84d39586feeebc1b446"
+    },
+    {
+      "path": "roles/nonprofit-director.html",
+      "size_bytes": 14398,
+      "sha256": "46b3ddfba3bfb756097db46b709f2c483f7f3e6724264a728a47105d009e5ca0"
+    },
+    {
+      "path": "roles/plumber.html",
+      "size_bytes": 14123,
+      "sha256": "c0623132a1582908b8c1013f94a87739221aa78eb26e08d8dc89ae82004f4537"
+    },
+    {
+      "path": "roles/property-manager.html",
+      "size_bytes": 14263,
+      "sha256": "bed3349eb343a533b54f98235668a7c84bc8e4810c63408c9589c77fb2e2980d"
+    },
+    {
+      "path": "roles/qse-finance-manager.html",
+      "size_bytes": 14213,
+      "sha256": "fcdf1dd183318fbe971864afcf15226a79eb6f861ef28300164b7e94043169cf"
+    },
+    {
+      "path": "roles/qse-owner.html",
+      "size_bytes": 14301,
+      "sha256": "4ac13399921c9137a9f980d11760e6dafe97962d5c47e520ce6a3dbe98dc06a6"
+    },
+    {
+      "path": "roles/real-estate-agency-owner.html",
+      "size_bytes": 14510,
+      "sha256": "9a49e37eb5f7701ee7ea298382aee1a4848db31f161dd5daea3aadad4bd587be"
+    },
+    {
+      "path": "roles/restaurant-owner.html",
+      "size_bytes": 14240,
+      "sha256": "110bcaf64556bf0a805f40b38fe51a8ea61d0624df52c349c909d5e79c4ef671"
+    },
+    {
+      "path": "roles/retail-store-owner.html",
+      "size_bytes": 14235,
+      "sha256": "5a57117f2d92c51725ba6ec6147f9d9ad378704416dee9816d238540399c9382"
+    },
+    {
+      "path": "roles/school-principal.html",
+      "size_bytes": 14311,
+      "sha256": "81d200eca0add6cc15909c1f22b8a79bf2f4916e39596dd9719696499e9a8a9b"
+    },
+    {
+      "path": "security.html",
+      "size_bytes": 15232,
+      "sha256": "f41d53911980b12046a82524e4dfc0c44b1df61460b9576e712b5da5abd9a066"
+    },
+    {
+      "path": "site.js",
+      "size_bytes": 5234,
+      "sha256": "ed9b8cd92d056af72fb290607a741f0e9259d06706c78fec3983c3158f85f365"
+    },
+    {
+      "path": "sitemap-core.xml",
+      "size_bytes": 3766,
+      "sha256": "313e085d71096d0da5713268071dcc7c28e11c41012ca40f63ef17caedafc795"
+    },
+    {
+      "path": "sitemap-industries.xml",
+      "size_bytes": 2588,
+      "sha256": "4bc13a96a60d356418816cdeae151fc0ba672d1dd0aa75bcb68cf8c21d6ba921"
+    },
+    {
+      "path": "sitemap-occupations.xml",
+      "size_bytes": 4972,
+      "sha256": "240ceb4f9b7c65421a5ccc7e104997d0d35501f2e7bd2f1c843cfabcea1d808f"
+    },
+    {
+      "path": "sitemap.xml",
+      "size_bytes": 622,
+      "sha256": "e9d7d99e829a2da981d72e7af0380d4c9cb23d1472aca4b12fbaa13b8ff4c9b7"
+    },
+    {
+      "path": "solutions.html",
+      "size_bytes": 15260,
+      "sha256": "2efdefd4c1b1d0997c22b91d06a15a078283a877ac9afcac7ece997fded135f4"
+    },
+    {
+      "path": "styles.css",
+      "size_bytes": 39028,
+      "sha256": "ba87e33e4753ed17cb9c8321e796f086c9fe4e8c9a20314a2d2ffe34302c4a2e"
+    },
+    {
+      "path": "telemetry.js",
+      "size_bytes": 2585,
+      "sha256": "7d6f73174e109f0c0fb61bfec21f7e32b2c6467f7ee8b720b79321372c6e61ea"
+    },
+    {
+      "path": "terms.html",
+      "size_bytes": 13179,
+      "sha256": "f138e7f93fdf02eff49fad8e4510d793869e6f21e0fb285fb87e9b121f4b5eec"
+    },
+    {
+      "path": "tools/prepare_release.py",
+      "size_bytes": 16831,
+      "sha256": "34be0a632332a17803196104db162caae8e336416056da2d28d2da55903b5e13"
+    },
+    {
+      "path": "trial.html",
+      "size_bytes": 15077,
+      "sha256": "89217bc37673c3879a6a4e430bf6aa3038ba2757f0fce4eaefc34b3da7f7d7e4"
+    },
+    {
+      "path": "website-guide.js",
+      "size_bytes": 1044,
+      "sha256": "f0a8cefee1e1af37ceabb190aabe2bd66f0ff6821fd2e8c4f438c94bd83e5abc"
+    },
+    {
+      "path": "why-turbine.html",
+      "size_bytes": 14341,
+      "sha256": "3b570f3932547057806d8dca8056f651cd9af30245527e91bae4a0ceef07ae41"
+    }
+  ]
+}

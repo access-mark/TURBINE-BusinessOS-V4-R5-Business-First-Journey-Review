@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-16",
+  "source": "Offline Chromium rendered DOM, local CSS/JS embedded and all 10 PNGs as original data URIs; no network or deployed GitHub Pages access.",
+  "pages": 42,
+  "widths": [
+    320,
+    375,
+    390,
+    720,
+    768,
+    1024,
+    1440
+  ],
+  "themes": [
+    "dark",
+    "light"
+  ],
+  "responsive_cases": 588,
+  "issues_count": 0,
+  "issues": [],
+  "js_errors": [],
+  "functional": {
+    "mobile_menu_open": true,
+    "mobile_menu_escape_close": true,
+    "theme_light": true,
+    "guide_open": true,
+    "guide_escape_close": true,
+    "catalogue_full_count": true,
+    "search_gardener": true,
+    "search_estate_agent": true,
+    "search_alias_realtor": true,
+    "search_qse": true,
+    "stage_qse": true,
+    "reset": true,
+    "no_results_help": true,
+    "gardener_profile": true,
+    "role_guide_links": true,
+    "estate_profile": true,
+    "contact.html_safe_form": true,
+    "trial.html_safe_form": true
+  },
+  "functional_all_pass": true,
+  "elapsed_sec": 21.8,
+  "limitations": [
+    "Google DM Sans font unavailable to isolated browser, system fallback used",
+    "No browser-based live URL navigation or hosting-edge check",
+    "720px is a 200%-zoom-equivalent width for 1440px, not an exact independently controlled browser zoom",
+    "No physical devices, screen reader, POPIA/consent or live submission tests",
+    "No programme acceptance of production financial and specialist capability claims"
+  ]
+}
