@@ -1,0 +1,66 @@
+{
+  "source": "Exact locally generated R5 preview; in-memory Chromium, embedded CSS/scripts and original 10 PNGs as data URIs",
+  "pages": 72,
+  "viewports": [
+    320,
+    375,
+    390,
+    720,
+    768,
+    1024,
+    1440
+  ],
+  "themes": [
+    "dark",
+    "light"
+  ],
+  "cases": 1008,
+  "static": {
+    "total_html": 72,
+    "missing_links": [],
+    "missing_anchors": [],
+    "missing_assets": [],
+    "missing_meta": [],
+    "duplicate_ids": [],
+    "important_count": 0,
+    "noindex_count": 72,
+    "relative_links_checked": 4722,
+    "h1_issues": [],
+    "comments": [],
+    "images": 299,
+    "image_sha_unchanged": true
+  },
+  "issues": [],
+  "issues_count": 0,
+  "javascript_errors": [],
+  "interactions": {
+    "homepage_no_role_assumption": true,
+    "five_scale_options": true,
+    "solo_not_gardener": true,
+    "solo_deep_link": true,
+    "stage_event_local_only": true,
+    "enterprise_changes_story": true,
+    "mobile_menu": true,
+    "mobile_menu_escape": true,
+    "guide_open": true,
+    "guide_solo_neutral": true,
+    "guide_escape": true,
+    "theme_toggle": true,
+    "guided_initial_unselected": true,
+    "solo_steps": true,
+    "team_steps": true,
+    "focus_money": true,
+    "focus_event_local_only": true,
+    "occupation_search": true,
+    "occupation_choice_optional": true,
+    "no_fake_lead_delivery": true
+  },
+  "interactions_all_passed": true,
+  "seconds": 23.0,
+  "limitations": [
+    "Browser cannot navigate to file/http/https in sandbox. In-memory rendering is not live hosting verification.",
+    "No independent native browser 200% zoom, physical-device or screen-reader checks.",
+    "Analytics remains disconnected; production lead delivery, consent and CP12 product qualification are blocked.",
+    "GitHub Pages deployment was not modified; canonical preview URL is prepared for a proposed repository path."
+  ]
+}

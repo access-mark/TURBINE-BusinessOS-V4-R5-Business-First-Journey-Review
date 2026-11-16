@@ -1,0 +1,90 @@
+{
+  "mode": "local_in_memory_only",
+  "no_remote_requests": true,
+  "contains_pii": false,
+  "events": [
+    {
+      "name": "page_view",
+      "trigger": "DOMContentLoaded",
+      "fields": [
+        "page"
+      ]
+    },
+    {
+      "name": "navigation_click",
+      "trigger": "header or mobile link",
+      "fields": [
+        "page",
+        "destination"
+      ]
+    },
+    {
+      "name": "chapter_jump",
+      "trigger": "chapter anchor",
+      "fields": [
+        "page",
+        "destination"
+      ]
+    },
+    {
+      "name": "occupation_search",
+      "trigger": "submitted search",
+      "fields": [
+        "page",
+        "query_length",
+        "results_count",
+        "category",
+        "stage"
+      ],
+      "never_collect": [
+        "raw search text"
+      ]
+    },
+    {
+      "name": "occupation_profile_open",
+      "trigger": "role link click",
+      "fields": [
+        "page",
+        "destination"
+      ]
+    },
+    {
+      "name": "trial_cta_click",
+      "trigger": "trial page link",
+      "fields": [
+        "page",
+        "destination"
+      ]
+    },
+    {
+      "name": "website_guide_open",
+      "trigger": "website guide opened",
+      "fields": [
+        "page"
+      ]
+    },
+    {
+      "name": "website_guide_close",
+      "trigger": "website guide closed",
+      "fields": [
+        "page"
+      ]
+    },
+    {
+      "name": "contact_attempt_blocked",
+      "trigger": "enquiry form has no approved delivery destination",
+      "fields": [
+        "page"
+      ]
+    },
+    {
+      "name": "scroll_depth_75",
+      "trigger": "first 75 percent scroll",
+      "fields": [
+        "page"
+      ]
+    }
+  ],
+  "lead_conversion_policy": "generate_lead may be emitted only after a verified approved server-side receipt; never on CTA or mailto intent",
+  "adapter": "TURBINE_Telemetry.connectWithConsent(fn,true) is for future consent-approved integration only"
+}

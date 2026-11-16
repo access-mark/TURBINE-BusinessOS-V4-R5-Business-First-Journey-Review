@@ -1,0 +1,12 @@
+{
+  "base_url": "https://access-mark.github.io/TURBINE-BusinessOS-V4-R5-Business-First-Journey-Review/",
+  "mode": "preview",
+  "pages": 72,
+  "indexable_in_release": 70,
+  "sitemaps": {
+    "core": 25,
+    "industries": 16,
+    "occupations": 29
+  },
+  "note": "Preview is intentionally noindexed. Release-mode build requires founder approval; generation alone is not release acceptance."
+}
